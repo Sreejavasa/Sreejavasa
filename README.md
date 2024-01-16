@@ -3,7 +3,7 @@ Hello there! 👋 I'm Sreeja Vasa, and I'm a passionate programmer currently pur
 
 Skills
 
-Programming Languages: Java,SQL, PowerBI,SharePoint,CSS, HTML, JAVASCRIPT
+Programming Languages: Java,SQL,CSS, HTML, JAVASCRIPT
 
 🌟 Interests
 
